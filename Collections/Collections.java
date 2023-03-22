@@ -23,7 +23,7 @@ public class Collections {
 			System.out.println(listaElementos);
 		}
 		
-		System.out.println("\nRemovvendo um elemento da lista");
+		System.out.println("\nRemovvendo um elemento da lista  ");
 		System.out.println();
 		minhaLista.remove(0);
 		
