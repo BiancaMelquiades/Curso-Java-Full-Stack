@@ -1,6 +1,6 @@
 package Aulas;
 
-public class Automovel {
+public class a_Automovel {
 
 	//declaração dos atributos da classe
 	private String nomeProprietario;
@@ -9,7 +9,7 @@ public class Automovel {
 	private int ano;
 	
 	//método construtor
-	public Automovel(String nomeProprietario, String modelo, String placa, int ano) {
+	public a_Automovel(String nomeProprietario, String modelo, String placa, int ano) {
 		super();
 		this.nomeProprietario = nomeProprietario;
 		this.modelo = modelo;
@@ -17,7 +17,7 @@ public class Automovel {
 		this.ano = ano;
 	}
 	
-	public Automovel(String modelo,String placa) {
+	public a_Automovel(String modelo,String placa) {
 		this.modelo = modelo;
 		this.placa = placa;
 	}

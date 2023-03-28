@@ -23,7 +23,7 @@ public class L5_Ex1_CollectionList {
 					System.out.println(cores);
 					
 				cores.sort(null);
-				System.out.println("\nSua ista de cores em ordem alfabetica: ");
+				System.out.println("\nSua lista de cores em ordem alfabetica: ");
 					System.out.println(cores);
 				}
 			

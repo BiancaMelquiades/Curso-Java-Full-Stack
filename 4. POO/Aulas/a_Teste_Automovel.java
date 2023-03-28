@@ -1,12 +1,12 @@
 package Aulas;
 
-public class Teste_Automovel {
+public class a_Teste_Automovel {
 
 	public static void main(String[] args) {
 		
 		//instanciando um objeto da classe Automovel
 		
-		Automovel auto1 = new Automovel("Bruna","Kombi","NOA2008",1998);
+		a_Automovel auto1 = new a_Automovel("Bruna","Kombi","NOA2008",1998);
 		
 		auto1.imprimirInfo();
 		

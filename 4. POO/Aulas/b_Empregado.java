@@ -2,12 +2,12 @@ package Aulas	;
 
 import java.text.NumberFormat;
 
-public class Empregado {
+public class b_Empregado {
 	
 	private String nome;
 	private double salario;
 	
-	public Empregado(String nome, double salario) {
+	public b_Empregado(String nome, double salario) {
 		super();
 		this.nome = nome;
 		this.salario = salario;
