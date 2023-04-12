@@ -20,5 +20,9 @@ public class HelloController {
 	public String bsm() {
 		return "Trabalho em equipe";
 	}
-	
+
+	@GetMapping("/bsm2")
+	public String bsm2() {
+		return "Proatividade";
+	}
 }
